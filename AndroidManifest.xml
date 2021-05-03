@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.quiz"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+    
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.quiz.Refactor"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.example.quiz.DisplaySubject"
+            android:label="@string/title_activity_display_subject" >
+        </activity>
+        <activity
+            android:name="com.example.quiz.SubjectDisplay"
+            android:label="@string/title_activity_subject_display" >
+        </activity>
+        <activity
+            android:name="com.example.quiz.C"
+            android:label="@string/title_activity_c" >
+        </activity>
+        <activity
+            android:name="com.example.quiz.Java"
+            android:label="@string/title_activity_java" >
+        </activity>
+        <activity
+            android:name="com.example.quiz.LearnSubjectDetails"
+            android:label="@string/title_activity_learn_subject_details" >
+        </activity>
+        <activity
+            android:name="com.example.quiz.C_Plus"
+            android:label="@string/title_activity_c__plus" >
+        </activity>
+        <activity
+            android:name="com.example.quiz.OperatingSystem"
+            android:label="@string/title_activity_operating_system" >
+        </activity>
+        <activity
+            android:name="com.example.quiz.OOAD"
+            android:label="@string/title_activity_ooad" >
+        </activity>
+        <activity
+            android:name="com.example.quiz.C_Notes"
+            android:label="@string/title_activity_c__notes" >
+        </activity>
+        <activity
+            android:name="com.example.quiz.C_Plus_notes"
+            android:label="@string/title_activity_c__plus_notes" >
+        </activity>
+        <activity
+            android:name="com.example.quiz.JavaNotes"
+            android:label="@string/title_activity_java_notes" >
+        </activity>
+        <activity
+            android:name="com.example.quiz.Operating_System_notes"
+            android:label="@string/title_activity_operating__system" >
+        </activity>
+        <activity
+            android:name="com.example.quiz.DBMS"
+            android:label="@string/title_activity_dbms" >
+        </activity>
+        <activity android:name="com.example.quiz.Welcome" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.quiz.SignUp" >
+        </activity>
+        <activity android:name="com.example.quiz.Forgot" >
+        </activity>
+        <activity
+            android:name="com.example.quiz.Instruction"
+            android:label="@string/title_activity_instruction" >
+        </activity>
+        <activity
+            android:name="com.example.quiz.Result"
+            android:label="@string/title_activity_result" >
+        </activity>
+        <activity
+            android:name="com.example.quiz.About"
+            android:label="@string/title_activity_about" >
+        </activity>
+    </application>
+
+</manifest>
