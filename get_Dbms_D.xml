@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="get_Dbms_D">
+        <item>column</item>
+        <item>OIS</item>
+        <item>alter</item>
+        <item>value</item>
+        <item>operation</item>
+        <item>virtual</item>
+        <item>getView</item>
+        <item> data handler</item>
+        <item>t()</item>
+        <item>rectangle circle</item>
+        <item>modify</item>
+        <item>derived</item>
+        <item>ordianally</item>
+        <item>create retrieve</item>
+        <item>default</item>
+    </string-array>
+
+</resources>

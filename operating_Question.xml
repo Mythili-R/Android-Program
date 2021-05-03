@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="get_OS_Question">
+        <item>Which is built directly on the hardware</item>
+        <item>The operating system manages</item>
+        <item>Which is not the function of the operating system</item>
+        <item>Which operating system does not support network between computers</item>
+        <item> Which operating system does not support long file names</item>
+        <item>Which of the following file format supports in windows 7</item>
+        <item>What should be the extension to execute files</item>
+        <item>The bankers algorithm is used</item>
+        <item>Which of the following concept is best to preventing page faults?</item>
+        <item>A program in execution is called</item>
+        <item>Which of the following is not process states</item>
+        <item> Usually ,in MSDOS ,the primary hard disk drives has the drive letter</item>
+        <item>The primary job of the operating system is </item>
+        <item>The secrity of a system can be improved by</item>
+        <item>An audit log</item>
+    </string-array>
+
+</resources>

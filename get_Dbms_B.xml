@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="get_Dbms_B">
+        <item>KEY </item>
+        <item>AIS</item>
+        <item>commit</item>
+        <item>relation</item>
+        <item>forth</item>
+        <item>drill down</item>
+        <item>procedure</item>
+        <item>Dynamic SQL</item>
+        <item>p t()</item>
+        <item>rectangle</item>
+        <item>create table</item>
+        <item>genralization</item>
+        <item>relation</item>
+        <item>create datatype</item>
+        <item>Intense_ rank()</item>
+    </string-array>
+
+</resources>

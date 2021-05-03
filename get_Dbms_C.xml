@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="get_Dbms_C">
+        <item>row</item>
+        <item>ONIS</item>
+        <item>rollback</item>
+        <item>set</item>
+        <item>second</item>
+        <item>dicing</item>
+        <item>view</item>
+        <item>Sql data analysis</item>
+        <item>t t()</item>
+        <item>rectangle diamond</item>
+        <item>modify table</item>
+        <item>inheritance</item>
+        <item>cardianally</item>
+        <item>create definetype</item>
+        <item>default rank()</item>
+    </string-array>
+
+</resources>

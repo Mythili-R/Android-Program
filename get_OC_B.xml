@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="get_OS_B">
+        <item>application  </item>
+        <item> processes </item>
+        <item> virus protection  </item>
+        <item>windows 95</item>
+        <item>windows NT</item>
+        <item> BSD  </item>
+        <item>COM  </item>
+        <item>to prevant deadlock </item>
+        <item>working set  </item>
+        <item> process </item>
+        <item> ready  </item>
+        <item>C</item>
+        <item>manage  users</item>
+        <item>Audit log</item>
+        <item>User   </item>
+    </string-array>
+
+</resources>

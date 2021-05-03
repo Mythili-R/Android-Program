@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="getDbmsQuestion">
+        <item>A ------ in  a table represents a relationship among a set of values  </item>
+        <item> which relationship is used to represent a specialization entity? </item>
+        <item> which of the following makes the transaction permanent  in the database?</item>
+        <item>for each attribute of a relation ,there is a set of permitted values,called the --- that attribute</item>
+        <item>which one is based on multi-valued dependency</item>
+        <item>the operation of moving from finer-granularity data to acoarser granularity is called</item>
+        <item>which of the following creates a virtual relation for storing the query?</item>
+        <item>which of the following is used to access the db server at time of executing the program and get the data from the server accordingly</item>
+        <item>a query in the tuple relational calculus is expressed as</item>
+        <item>we indicate roles in E-R digrams by labeling the lines that connect --------to---------</item>
+        <item>to include integrity constraint in a existing relation are </item>
+        <item>the entity set person is classified as student and employee .this process is called</item>
+        <item>express the no of entities to which another entity can be associated via a relationship set.</item>
+        <item>the user defined data type can be create using</item>
+        <item>the---- function that does not create gaps in the ordering.</item>
+    </string-array>
+
+</resources>

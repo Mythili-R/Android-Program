@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="get_OS_D">
+        <item>software system  </item>
+        <item> none</item>
+        <item>management </item>
+        <item>windows 98</item>
+        <item>window</item>
+        <item> NTF</item>
+        <item> none </item>
+        <item>deadlock occur</item>
+        <item>ratios  </item>
+        <item> boot strap </item>
+        <item> grapping  </item>
+        <item>E</item>
+        <item>resources</item>
+        <item>none </item>
+        <item>authenticating </item>
+    </string-array>
+
+</resources>

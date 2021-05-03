@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="get_OS_A">
+        <item>database </item>
+        <item> memory</item>
+        <item> diskmanagement </item>
+        <item>windows 3.1</item>
+        <item>windows 95</item>
+        <item> NTFS </item>
+        <item>EXE </item>
+        <item>to detect deadlock </item>
+        <item>paging </item>
+        <item> demand </item>
+        <item> new </item>
+        <item>B</item>
+        <item>threat commands</item>
+        <item>Simply record the time  ?</item>
+        <item>program </item>
+    </string-array>
+
+</resources>

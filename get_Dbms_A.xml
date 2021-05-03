@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="get_Dbms_A">
+        <item>column </item>
+        <item>ISA</item>
+        <item>view</item>
+        <item>domain</item>
+        <item>third</item>
+        <item>rollUP</item>
+        <item>funcion</item>
+        <item>Enbedded SQL</item>
+        <item>t p()</item>
+        <item>diamond</item>
+        <item>alter table</item>
+        <item>specialaiztion</item>
+        <item>mapping</item>
+        <item>create type</item>
+        <item>Dense_ rank()</item>
+    </string-array>
+
+</resources>

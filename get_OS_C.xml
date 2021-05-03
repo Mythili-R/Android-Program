@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="get_OS_C">
+        <item>operating system  </item>
+        <item> all of the above </item>
+        <item> memory management </item>
+        <item>windows NT</item>
+        <item>MS-DOS</item>
+        <item> EXT </item>
+        <item> all of the above </item>
+        <item>to  rectify deadlock </item>
+        <item>hit ratios  </item>
+        <item> paging </item>
+        <item> finished  </item>
+        <item>A</item>
+        <item>manage resources</item>
+        <item>both (a) and (b) </item>
+        <item>All of these </item>
+    </string-array>
+
+</resources>
